@@ -1,0 +1,23 @@
+REDLINED CLAUSES
+Payment Terms:
+Original: Client shall pay invoices within Net 90 Days.
+Redline: Client shall pay invoices within Net 30 Days.
+Liability:
+Original: Vendor liability shall not exceed $100 USD.
+Redline: Vendor liability shall not exceed $10,000 USD (or 12 months' fees, whichever is higher).
+Jurisdiction:
+Original: Governing law shall be Antarctica.
+Redline: Governing law shall be the State of Delaware, USA.
+
+
+DRAFT EMAIL
+Subject: Proposed Revisions - Service Agreement
+Dear Vendor Team,
+Thank you for sending over the draft agreement. We have completed our internal review and identified a few areas where the terms do not align with our standard corporate policy.
+We have attached the redlined agreement with the following key changes:
+Payment Terms: Adjusted to Net-30 days to align with our standard accounts payable cycle.
+Liability: Increased the cap to a standard commercial level ($10k), as $100 offers insufficient coverage.
+Jurisdiction: Updated to Delaware, USA, as we cannot accept jurisdiction in Antarctica.
+Please confirm if these changes are acceptable so we can proceed to signature.
+Best regards,
+Legal Team
